@@ -1,0 +1,1 @@
+Implementar la practica anterior con el método de Tablas Hash 100x4

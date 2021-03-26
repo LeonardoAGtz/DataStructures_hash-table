@@ -1,0 +1,5 @@
+Programa que gestione datos de tipo persona, los cuales están compuestos por Curp, Nombre y Nacionalidad con las operaciones:
+
+Guardar, Mostrar, Modificar, Buscar y Eliminar con el método de saturación progresiva
+
+Archivo Original Perdido
